@@ -9,7 +9,7 @@ public class HelloWorld {
 	}
 
 	public int minus(final int left, final int right) {
-		return left - right;
+		return left + right;
 	}
 
 }
